@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/Controller/AdminDangNhapController.java=UTF-8
+encoding//src/Controller/AdminDangXuatController.java=UTF-8
+encoding//src/Controller/AdminNguoiDungController.java=UTF-8
+encoding//src/Controller/AdminTacGiaController.java=UTF-8
+encoding//src/Controller/AdminTheLoaiController.java=UTF-8
+encoding//src/Controller/AdminTruyenController.java=UTF-8
+encoding//src/Controller/ChiTietTruyenController.java=UTF-8
+encoding//src/Controller/DangKyController.java=UTF-8
+encoding//src/Controller/DangNhapController.java=UTF-8
+encoding//src/Controller/XemThemTruyenController.java=UTF-8
+encoding//src/Controller/test.java=UTF-8
+encoding//src/dao/httruyendao.java=UTF-8
+encoding//src/dao/nguoidungdao.java=UTF-8
+encoding//src/dao/tacgiadao.java=UTF-8
+encoding//src/dao/theloaidao.java=UTF-8
+encoding//src/dao/truyendao.java=UTF-8
